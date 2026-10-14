@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Roveed Siddiqui</h1>
 
 <h4 align="center">
-UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer passionate about creating intuitive user experiences and modern web applications using <b>Figma, React, Tailwind CSS, and JavaScript</b>.
+UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer building intuitive user experiences and responsive web applications using <b>Figma, React, Tailwind CSS, and JavaScript</b>.
 </h4>
 
 </div>
@@ -17,8 +17,9 @@ UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer passion
   </ul>
 </div>
 
-- 🎨 UI/UX Designer with **3+ years** of experience
-- 💻 Frontend Developer building responsive web applications
+- 🎨 UI/UX Designer with **3+ years** of experience, currently at **Masaj Co. (Kuwait)** designing the Chrug AI fitness app
+- 💻 Frontend Developer with hands-on full stack experience (**React, Node.js, PHP**)
+- 🎓 BSCS student at Northern University Nowshera
 - 🌱 Currently learning **React.js, JavaScript & DevOps**
 - 🤝 Open to collaborating on **UI/UX, SaaS, React & Open Source projects**
 - 📫 Reach me at **roveedsiddiqui456@gmail.com**
@@ -34,7 +35,7 @@ UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer passion
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tailwind,nodejs,mongodb,mysql,vite,git,github,vscode,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tailwind,nodejs,php,mongodb,mysql,vite,git,github,vscode,postman&perline=8" />
   </a>
 </p>
 
