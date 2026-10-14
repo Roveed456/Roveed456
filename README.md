@@ -20,7 +20,7 @@ UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer buildin
 - 🎨 UI/UX Designer with **3+ years** of experience, currently at **Masaj Co. (Kuwait)** designing the Chrug AI fitness app
 - 💻 Frontend Developer with hands-on full stack experience (**React, Node.js, PHP**)
 - 🎓 BSCS student at Northern University Nowshera
-- 🌱 Currently learning **React.js, JavaScript & DevOps**
+- 🌱 Currently learning **React.js, JavaScript**
 - 🤝 Open to collaborating on **UI/UX, SaaS, React & Open Source projects**
 - 📫 Reach me at **roveedsiddiqui456@gmail.com**
 
