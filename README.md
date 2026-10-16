@@ -22,6 +22,7 @@ UI/UX Designer with <b>3+ years of experience</b> and Frontend Developer buildin
 - 🎓 BSCS student at Northern University Nowshera
 - 🌱 Currently learning **React.js, JavaScript**
 - 🤝 Open to collaborating on **UI/UX, SaaS, React & Open Source projects**
+- 🌐 Portfolio: **[roveed456.github.io](https://roveed456.github.io/)**
 - 📫 Reach me at **roveedsiddiqui456@gmail.com**
 
 ---
